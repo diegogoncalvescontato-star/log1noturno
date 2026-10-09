@@ -1,5 +1,11 @@
 # TRABALHOS DE INFORMATICA
-Planilhas eletrônicas de dados abertos
+<img width="1377" height="747" alt="image" src="https://github.com/user-attachments/assets/274dcb3d-d619-4f21-93a1-f89a03c48bf3" /># INFORMATICA-APLICADA-A-LOGISTICA-FATEC
+TRABALHOS DE INFORMÁTICA E LOGISTICA 
+## APRESENTAÇÃO PESSOAL E EQUIPE
+<img width="852" height="481" alt="image" src="https://github.com/user-attachments/assets/18bccb01-dfbe-4199-96e5-8cb7a9926ddd" />
+
+
+## Planilhas eletrônicas de dados abertos
 # 🚗 Análise Comparativa do Mercado de Veículos (2025 - 2026)
 
 Este repositório apresenta um projeto de análise de dados exploratória e comparativa baseado em um dataset integrado contendo **73.021 registros de veículos**. Os dados foram consolidados a partir de 5 planilhas de inventário que cobrem o período de **março de 2025 a fevereiro de 2026**.
@@ -54,9 +60,6 @@ Um gráfico de rosca (Donut) focado no último mês disponível (`02-2026`) que 
 * **Insight**: Confirma a dominância histórica de cores comerciais (Preta, Branca, Prata) frente a opções menos tradicionais.
 
 ---
-<img width="1377" height="747" alt="image" src="https://github.com/user-attachments/assets/274dcb3d-d619-4f21-93a1-f89a03c48bf3" /># INFORMATICA-APLICADA-A-LOGISTICA-FATEC
-TRABALHOS DE INFORMÁTICA E LOGISTICA 
-## APRESENTAÇÃO PESSOAL E EQUIPE
-<img width="852" height="481" alt="image" src="https://github.com/user-attachments/assets/18bccb01-dfbe-4199-96e5-8cb7a9926ddd" />
+
 ## ANNT MULTIMODAIS
 <img width="1377" height="747" alt="image" src="https://github.com/user-attachments/assets/bcb778c1-9a90-4321-b582-5d60106e9440" />
